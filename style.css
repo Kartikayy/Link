@@ -1,0 +1,25 @@
+body{
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+    background-image: url(pg.jpg);
+    background-size: 1600px;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+a{
+    color: rgb(255, 255, 255);
+}
+.jpeg1 {
+    max-width: 10rem;
+    max-height: 10rem;
+}
+.png1{
+    max-width: 15rem;
+    max-height: 15rem;
+}
